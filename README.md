@@ -55,8 +55,10 @@ $ yarn install
 $ yarn start
 ```
 
-## **Visualizar no navegador**
+### :eyes: **Visualizar no navegador**
 
 > http://localhost:3000/
+
+<br><br>
 
 Created by Lilian Dias :wave: [Hi-5!](https://www.linkedin.com/in/dias-lilian/)
